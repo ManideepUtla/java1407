@@ -21,9 +21,8 @@ class CredServiceTest {
         customer.dOB="30-10-2002";
         customer.mobileNo="9985533134";
 
-        /*AccountType accountType=new AccountType();
-        accountType.current= "";
-       */
+
+
         InterestRate interstRate=new InterestRate();
 
         interstRate.accountType="Savings";
